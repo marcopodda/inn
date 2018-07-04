@@ -168,7 +168,7 @@ MODELSELECTION_GRIDS = {
 
 BASELINE_GRIDS = {
     "lr": {
-        "C": _float_grid(-5, 5, 11, log=True),
+        "C": _float_grid(-5, 5, 150, log=True),
     }
 }
 
