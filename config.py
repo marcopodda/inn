@@ -2,7 +2,7 @@ import os
 
 
 class Dirs:
-    """Object that stores directory path used throughout the experiments."""
+    """Object that stores directory paths used throughout the experiments."""
 
     ROOT_DIR = os.path.abspath(".")
     DATA_DIR = os.path.join(ROOT_DIR, ".data")
