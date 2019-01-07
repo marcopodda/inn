@@ -1,4 +1,4 @@
-This is the accompanying code for the paper <a href="https://www.nature.com/articles/s41598-018-31920-6" target="_blank">A machine learning approach to estimating preterm infants survival: development of the PISA predictor</a>.
+This is the accompanying code for the paper <a href="https://www.nature.com/articles/s41598-018-31920-6" target="_blank">A machine learning approach to estimating preterm infants survival: development of the PISA predictor</a> - Scientific Reports 8:13743 (2018).
 
 # Data
 We used two datasets:
